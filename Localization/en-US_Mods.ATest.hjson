@@ -1,0 +1,11 @@
+DonorItem: {
+	STAR: {
+		DisplayName: S T A R
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	STARProj.DisplayName: S T A R Proj
+	STAROnSpawn.DisplayName: S T A R On Spawn
+}
